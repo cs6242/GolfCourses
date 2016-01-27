@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GolfCourses</string>
+    <string name="title_golfcourse_detail">GolfCourse Detail</string>
+</resources>
